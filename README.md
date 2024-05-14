@@ -1,4 +1,4 @@
-# Capstone-Project - Serial Device Identification
+# Capstone Project - Serial Device Identification
 
 ## Requirments
 |Software|version|
